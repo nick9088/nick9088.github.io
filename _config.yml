@@ -1,0 +1,16 @@
+title        : "nick909"
+description  : "nick909's website"
+color        : "#003cff"
+markdown_ext : "markdown,mkdown,mkdn,mkd,md,html"
+include      : [".well-known"]
+
+defaults:
+  - values:
+      layout: "default"
+      title: "nick909"
+
+plugins:
+  - "jekyll-github-metadata"
+
+sass:
+  sass_dir: _sass
