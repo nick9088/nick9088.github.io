@@ -9,11 +9,11 @@ Hi! i am nick909, i am a boy who likes programming in python and make websites i
 
 ## Socials
 
-![instagram](https://instagram.com/nick909.dev) 
-![twitter](https://twitter.com/iamnick909) 
-![telegram](https://nick909_off.t.me) 
-![youtube](https://youtube.com/@iamnick909)
-![email](mailto:nick909@email.com) 
+instagram: nick909.dev
+twitter: @iamnick909
+telegram: @nick909_off
+youtube: @iamnick909
+mail: nick909@email.com
 
 ## Donations
 I also accept donations with paypal or crypto
