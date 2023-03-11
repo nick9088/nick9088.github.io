@@ -12,7 +12,7 @@ p {
     font-size: 18px;
 }
 .filterbg {
-    background-image: url('https://www.hdwallpapers.in/download/kanna_kamui_kobayashi_hd_miss_kobayashis_dragon_maid-HD.jpg');
+    background-image: url('/assets/bg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
